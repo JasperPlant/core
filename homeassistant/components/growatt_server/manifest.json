@@ -4,7 +4,7 @@
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/growatt_server/",
   "requirements": ["growattServer==1.2.2"],
-  "codeowners": ["@indykoning", "@muppet3000", "@JasperPlant"],
+  "codeowners": ["@indykoning", "@muppet3000"],
   "iot_class": "cloud_polling",
   "loggers": ["growattServer"]
 }
